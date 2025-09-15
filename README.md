@@ -1,1 +1,1 @@
-# CS-560_HW-1
+# CS 560 - Homework 1
