@@ -38,7 +38,7 @@ class TurtleController(Node):
             msg = self.create_twist(0.5, 0.0)
         # Rotate to draw horizontal bar
         elif self.time >= 21 and self.time < 23:
-            msg = self.create_twist(0.0, 1.1)
+            msg = self.create_twist(0.0, 1.0)
         # Draw horizontal bar
         elif self.time >= 23 and self.time < 28:
             msg = self.create_twist(0.5, 0.0)
